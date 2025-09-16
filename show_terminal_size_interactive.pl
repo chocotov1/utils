@@ -1,7 +1,6 @@
 #!/usr/bin/perl -w
 
 $| = 1;
-use POSIX; 
 use Term::ReadKey;
 
 my $verbose = 0;
